@@ -107,26 +107,4 @@ header nav a:hover{
 .carrossel-filmes{
     margin-top: 5px;
 }
-
-.login-senha{
-    display: flex;
-    flex-direction: column;
-    padding:10px 0;
-}
-
-.login-input{
-    margin-top: 10px;
-    padding:0 5px;
-    background-color: transparent;
-    border:none;
-    outline: none;
-}
-
-.card-footer {
-
-    display: flex;
-
-    flex-direction: column;
-
-}
     
